@@ -1,78 +1,69 @@
-<h1 align="center">✨ Lohitha Kanneganti ✨</h1>
+<h1 align="center">Hi 👋, I'm Lohitha Kanneganti</h1>
+
+<h3 align="center">Artificial Intelligence & Machine Learning Student</h3>
 
 <p align="center">
-<b>AI & Machine Learning Student | Future ML Engineer</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Future+Machine+Learning+Engineer;Exploring+Artificial+Intelligence"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+Smart+Solutions+with+Code"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:667eea,100:764ba2&section=header&text=Explore%20My%20Projects&fontSize=38&fontColor=ffffff"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech – Artificial Intelligence & Machine Learning**
-
-📊 **CGPA:** 9.34 / 10
-
-💡 Curious about **Machine Learning, Artificial Intelligence & Data Science**
-
-🚀 I enjoy building projects that solve **real-world problems using AI**
+* 🎓 **B.Tech – Artificial Intelligence & Machine Learning**
+* 📊 **CGPA: 9.34 / 10**
+* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+* 🚀 Interested in building **AI-powered applications**
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 Movie Recommendation Chatbot
-
-A machine learning based chatbot that recommends movies using **genre and language preferences** to provide personalized suggestions.
-
-### 👩‍🏫 FacultyHub *(Team Project)*
-
-A collaborative platform designed to improve **communication and interaction between faculty and students**.
-
-### 👥 GroupSync *(Team Project)*
-
-A system that helps teams **organize tasks, coordinate work, and collaborate effectively**.
-
----
-
-## 📊 GitHub Activity
+## 🧠 Tech Stack
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lohitha-19&show_icons=true&theme=radical"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lohitha-19&theme=radical"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🎬 Movie Recommendation Chatbot
+
+A machine learning based chatbot that recommends movies based on **genre and language preferences**.
+
+### 🏫 FacultyHub *(Team Project)*
+
+A collaborative platform designed to improve **interaction between faculty and students**.
+
+### 👥 GroupSync *(Team Project)*
+
+A system that helps teams **coordinate tasks and communication effectively**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lohitha-19&show_icons=true&theme=github_dark"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lohitha-19&theme=github-dark"/>
 
 </p>
 
@@ -95,5 +86,5 @@ A system that helps teams **organize tasks, coordinate work, and collaborate eff
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b>
+⭐ Thanks for visiting my GitHub profile!
 </p>
