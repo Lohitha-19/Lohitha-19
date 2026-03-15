@@ -3,7 +3,7 @@
 <h3 align="center">Artificial Intelligence & Machine Learning Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Future+Machine+Learning+Engineer;Exploring+Artificial+Intelligence"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile;Building+Smart+Solutions+with+AI;Exploring+Machine+Learning+Projects;Learning+and+Building+AI+Applications"/>
 </p>
 
 <p align="center">
