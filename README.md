@@ -63,17 +63,6 @@ A system that helps teams **coordinate tasks and communication effectively**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lohitha-19&show_icons=true&theme=github_dark"/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lohitha-19&theme=github-dark"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
